@@ -1,21 +1,21 @@
 # Furk-Ultra
 Furk Ultra is a executor with a built in scripts
 
-# Important: Make sure game is closed
+# Important: Enjoy
 
 
 # 📁 〢 Tutorial
-Download the Furk Ultra
-Extract the ZIP file
-Run the Bypass.bat (it automatically runs the FurkUltra.exe)
-Launch any roblox game you want to use scripts in
-Click inject
-After injecting execute your scripts.
+1. Extract the ZIP file
+
+2. Run the executable
+
+3. Click inject
+
 # List of features
-No Key System
-Level 8 Executor
-Custom Bytecode Conversion DLL (Better than KRNL)
-200+ Games in script hub
-Custom scripts
-High stability
-Reliable & Always Up To Date
+1. No Key System
+2. Level 8 Executor
+3. Custom Bytecode Conversion DLL (Better than KRNL)
+4. 200+ Games in script hub
+5. Custom scripts
+6. High stability
+7. Reliable & Always Up To Date
