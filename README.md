@@ -1,7 +1,7 @@
 # Furk-Ultra
 Furk Ultra is a executor with a built in scripts
 
-# Important: Make sure u run Bypass.bat before launching the Furk Ultra to prevent from getting kicked or banned
+# Important: Make sure game is closed
 
 
 # 📁 〢 Tutorial
